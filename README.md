@@ -8,7 +8,7 @@
 
 A website should be the easy part of building a business. So here is the Frere Web Building tool. Just change text, images and style them as you need. You can drag and drop the components you need, which are inbuilt
 
-### Live Demo - [Chusespo](https://webbuilder-react.web.app)
+### Live Demo - [WebMaker](https://webbuilder-react.web.app)
 
 ---
 
