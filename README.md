@@ -68,8 +68,6 @@ Website-Builder-React
 ├─ public
 │  ├─ favicon.ico
 │  ├─ index.html
-│  ├─ logo192.png
-│  ├─ logo512.png
 │  ├─ manifest.json
 │  └─ robots.txt
 ├─ README.md
@@ -89,10 +87,6 @@ Website-Builder-React
    │  │  ├─ FormLabel.js
    │  │  ├─ Image.js
    │  │  ├─ Input.js
-   │  │  ├─ Modal.js
-   │  │  ├─ Radio.js
-   │  │  ├─ Select.js
-   │  │  ├─ SmoothScroll.js
    │  │  └─ Switch.js
    │  ├─ ImageEdit
    │  │  ├─ EditImage.js
@@ -111,17 +105,7 @@ Website-Builder-React
    │     ├─ ChatBox.js
    │     ├─ Cta.js
    │     ├─ ExpandableTable.js
-   │     ├─ FeaturesSplit.js
-   │     ├─ FeaturesTiles.js
-   │     ├─ GenericSection.js
-   │     ├─ Hero.js
-   │     ├─ partials
-   │     │  └─ SectionHeader.js
    │     ├─ PlaceOrder
-   │     │  ├─ Address.js
-   │     │  ├─ Checkout.js
-   │     │  ├─ PaymentForm.js
-   │     │  └─ Review.js
    │     ├─ PricingTemplate.js
    │     ├─ ReviewCard.js
    │     ├─ SigninElement.js
