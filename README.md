@@ -7,7 +7,7 @@ A website should be the easy part of building a business. So here is the Frere W
   <img  src="demo.png" >  
 </p>
 
-<p> Live Demo :- [WebMaker](https://webbuilder-react.web.app) </p>   
+-Live Demo :- [WebMaker](https://webbuilder-react.web.app)  
 
 ---
 
