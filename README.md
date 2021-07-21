@@ -8,14 +8,13 @@
 
 A website should be the easy part of building a business. So here is the Frere Web Building tool. Just change text, images and style them as you need. You can drag and drop the components you need, which are inbuilt
 
-<br/>
-
 ### Live Demo - [Chusespo](https://webbuilder-react.web.app)
 
 ---
 
 ### Table of Contents
 
+- [Description](#description)
 - [Demo](#demo)
 - [Project Layout](#project-layout)
 - [References](#references)
@@ -23,7 +22,22 @@ A website should be the easy part of building a business. So here is the Frere W
 
 ---
 
+## Description
+
+WebMaker is a platform for code-free website creation. Yes, you can make websites without really knowing to code, using our features and platforms like drag and drop services, in which you just haveto drag and drop the things you needed.
+
+### Technologies
+
+- Firebase 
+- React JS
+- Material UI
+
+---
+
+
 ## Demo
+
+<br>
 
 ### Change Text and Images
 <br>
@@ -40,9 +54,6 @@ A website should be the easy part of building a business. So here is the Frere W
   <img  src="g2.gif" >  
 </p>
 
-
-
-#### [Back To The Top](#WebMaker)
 
 ---
 
